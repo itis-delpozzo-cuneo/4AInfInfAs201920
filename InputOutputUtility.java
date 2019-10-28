@@ -93,8 +93,8 @@ public class InputOutputUtility {
 		}
 		
 		
-		//Date df = Tastiera.leggiDataOra("06/08/2019 08:34", Tastiera.dfDayHour);
-		//Date df = Tastiera.leggiDataOra("06/08/2019", Tastiera.dfDay);
+		//Date df = InputOutputUtility.leggiDataOra("06/08/2019 08:34", InputOutputUtility.dfDayHour);
+		//Date df = InputOutputUtility.leggiDataOra("06/08/2019", InputOutputUtility.dfDay);
 		public static Date leggiDataOra(String outStr, DateFormat df){
 		    Date date = null;
 
@@ -115,7 +115,7 @@ public class InputOutputUtility {
 
 		
 		public static Calendar leggiDataOraCalendar(String outStr, DateFormat df){
-			Date date = Tastiera.leggiDataOra(outStr, df);
+			Date date = InputOutputUtility.leggiDataOra(outStr, df);
 
 		    Calendar calendar = Calendar. getInstance();
 		    calendar. setTime(date);
