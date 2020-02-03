@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<classescuola name="4A-inf">
+    <allievo cognome="Rossi" nome="Mario">
+        <votoInformatica>6</votoInformatica>
+        <votoMatematica>7</votoMatematica>
+        <votoStoria>6</votoStoria>
+    </allievo>
+    <allievo cognome="Meria" nome="Luigi">
+        <votoInformatica>8</votoInformatica>
+        <votoMatematica>7</votoMatematica>
+        <votoStoria>8</votoStoria>
+    </allievo>
+    <allievo cognome="Romani" nome="Marta">
+        <votoInformatica>8</votoInformatica>
+        <votoMatematica>6</votoMatematica>
+        <votoStoria>5</votoStoria>
+    </allievo>
+    <allievo cognome="Sarti" nome="Laura">
+        <votoInformatica>5</votoInformatica>
+        <votoMatematica>5</votoMatematica>
+        <votoStoria>6</votoStoria>
+    </allievo>
+</classescuola>

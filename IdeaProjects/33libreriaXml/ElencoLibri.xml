@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ElencoLibri>
+    <Libro codIsbn="5423" prezzo="34.0" titolo="Titolo 1"/>
+    <Libro codIsbn="8742" prezzo="19.0" titolo="Titolo 2"/>
+</ElencoLibri>

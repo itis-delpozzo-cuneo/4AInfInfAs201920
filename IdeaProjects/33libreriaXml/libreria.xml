@@ -1,0 +1,17 @@
+<libreria>
+	<libro>
+		<codiceisbn>cod01</codiceisbn>
+		<prezzo>14.99</prezzo>
+		<titolo>l'isola che non c'è</titolo>
+	</libro>
+	<libro>
+		<codiceisbn>cod02</codiceisbn>
+		<prezzo>22.97</prezzo>
+		<titolo>sistema periodico</titolo>
+	</libro>
+	<libro>
+		<codiceisbn>cod03</codiceisbn>
+		<prezzo>9.99</prezzo>
+		<titolo>il mondo di Sofia</titolo>
+	</libro>
+</libreria>

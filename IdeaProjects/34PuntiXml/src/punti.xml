@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<percorso>
+	<punto nome="p1">
+		<cordx>100</cordx>
+		<cordy>100</cordy>
+	</punto>
+	<punto nome="p2">
+		<cordx>200</cordx>
+		<cordy>400</cordy>
+	</punto>
+	<punto nome="p3">
+		<cordx>300</cordx>
+		<cordy>800</cordy>
+	</punto>
+	<punto nome="p4">
+		<cordx>400</cordx>
+		<cordy>1400</cordy>
+	</punto>
+</percorso>
